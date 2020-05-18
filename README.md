@@ -14,5 +14,6 @@
 YouTube频道：[文轩解码](https://www.youtube.com/channel/UCUeyghhDd1AguJvxZHvc_jA)  
 
 
-第一集：人生第一个网页
+第一集：[人生第一个网页](https://bit.ly/3cHVUXw)
+第二集：[使用flex排版内容，<img>插入图片和<a>生成超链接](https://bit.ly/3dVMLL7)
 
